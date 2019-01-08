@@ -1,2 +1,8 @@
-User-agent: *
+﻿User-agent: *
 Disallow: /admin/
+Disallow: /category/
+Disallow: /author/
+Disallow: /comments/
+Disallow: /p/
+Disallow: /politicas-cookies/
+Disallow: /tag/
