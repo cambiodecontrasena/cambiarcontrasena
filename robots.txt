@@ -8,4 +8,3 @@ Disallow: /politicas-cookies/
 Disallow: /tag/
 Disallow: /search/
 Disallow: /*search?
-Disallow: /cambiar-contrasena-google-play/googleplaycambiarcontrasena9/
