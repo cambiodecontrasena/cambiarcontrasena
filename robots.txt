@@ -6,7 +6,9 @@ Disallow: /comments/
 Disallow: /p/
 Disallow: /politicas-cookies/
 Disallow: /tag/
-Disallow: /search/
+Disallow: /feeds/
+Disallow: /*feed
+Disallow: /search
 Disallow: /*search?
 Disallow: /2017/
 Disallow: /cambiar-contrasena-google-play/googleplaycambiarcontrasena9/
