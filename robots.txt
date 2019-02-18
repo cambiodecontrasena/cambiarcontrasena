@@ -1,15 +1,2 @@
 User-agent: *
 Disallow: /admin/
-Disallow: /category/
-Disallow: /author/
-Disallow: /comments/
-Disallow: /p/
-Disallow: /politicas-cookies/
-Disallow: /tag/
-Disallow: /feeds/
-Disallow: /*feed
-Disallow: /search
-Disallow: /*search?
-Disallow: /2017/
-Disallow: /cambiar-contrasena-google-play/googleplaycambiarcontrasena9/
-Disallow: /recuperar-la-contrasena-hotmail-outlook/
